@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Codwears badge](https://www.codewars.com/users/Anatoliy-Manzhola/badges/large)](https://www.codewars.com/users/https://www.codewars.com/users/Anatoliy-Manzhola/badges/large)
+[![Codwears badge](https://www.codewars.com/users/Anatoliy-Manzhola/badges/micro)](https://www.codewars.com/users/https://www.codewars.com/users/Anatoliy-Manzhola/badges/micro)
 
 - 🌱 I’m currently learning JavaScript
 <!--
