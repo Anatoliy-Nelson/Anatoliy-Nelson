@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+
+<!--
 - [![Codwears badge](https://www.codewars.com/users/Anatoliy-Manzhola/badges/micro)](https://www.codewars.com/users/https://www.codewars.com/users/Anatoliy-Manzhola/badges/micro)
 
 - 🌱 I’m currently learning JavaScript
-<!--
 **Anatoliy-Nelson/Anatoliy-Nelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
