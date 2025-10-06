@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-
+🛠️ Languages and Tools :
+JavaScript  TypeScript  React  Redux   React-router  Axios  Storybook  Swagger  Firebase  Material UI  Ionic  NodeJS  CSS  HTML  Figma
 <!--
 - [![Codwears badge](https://www.codewars.com/users/Anatoliy-Manzhola/badges/micro)](https://www.codewars.com/users/https://www.codewars.com/users/Anatoliy-Manzhola/badges/micro)
 
